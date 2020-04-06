@@ -1,0 +1,6 @@
+/src/client/components/**/node_modules
+node_modules/
+**/node_modules/
+vendor/
+**/*.snap
+user-journey/**/report/
